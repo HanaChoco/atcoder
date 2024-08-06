@@ -24,4 +24,3 @@ def count_valid_permutations(N, S, K):
 
 result = count_valid_permutations(N, S, K)
 print(result)
-
