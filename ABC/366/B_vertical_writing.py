@@ -8,7 +8,7 @@ M = max(len(s) for s in strings)
 # 縦書き用のリスト
 result = [''] * M
 
-# 横書き⇒縦書き
+# 横書き ⇒ 縦書き
 for i in range(M):
     for j in range(N-1, -1, -1):
         if i < len(strings[j]):
