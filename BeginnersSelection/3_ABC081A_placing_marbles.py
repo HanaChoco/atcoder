@@ -1,5 +1,4 @@
-s = input()
-
-count = s.count('1')
-
-print(count)
+# 入力
+# 1,2,3の番号がついた3つのマス
+# 1の数をカウントして出力
+print(input().count('1'))

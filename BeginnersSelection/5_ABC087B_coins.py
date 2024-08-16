@@ -1,4 +1,7 @@
 # 入力
+
+# a, b, c, d = [int(input()) for _ in range(4)]
+
 a = int(input()) # 500円玉
 b = int(input()) # 100円玉
 c = int(input()) # 50円玉
